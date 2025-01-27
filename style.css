@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: rgba(255, 192, 203, 0.774);
+    background-color: black;
     height: 100vh;
 }
 .interface{
@@ -16,7 +16,7 @@ body{
 
 .flex{
     display: flex;
-    
+
 
 }
 .btn-contato button{
@@ -32,7 +32,7 @@ body{
 }
 
 h2.titulo{
-    color: black;
+    color: #fff;
     font-size: 38px;
     text-align: center;
 }
@@ -80,7 +80,7 @@ header nav ul li{
 }
 
 
- /* Estilo do topo do site */ 
+ /* Estilo do topo do site */
 
  section.topo-do-site{
     padding: 40px 4%;
@@ -92,11 +92,11 @@ header nav ul li{
     align-items: center;
     gap: 90px;
 
- } 
+ }
 
  .topo-do-site h1{
     font-size: 40px;
-    color: black;
+    color: #fff;
     font-weight: 600;
     line-height: 40px;
  }
@@ -106,7 +106,7 @@ header nav ul li{
  }
 
  .topo-do-site .txt-topo-site p{
-    color: black;
+    color: #fff;
     font-size: 18px;
     margin: 40px 0;
  }
@@ -140,7 +140,7 @@ header nav ul li{
  }
 
  .especialidades .especialidades-box{
-    color: black;
+    color: #fff;
     padding: 40px;
     border-radius: 20px;
     margin-top: 45px;
@@ -173,7 +173,7 @@ section.sobre .flex{
 }
 
 .sobre .txt-sobre{
-    color: black;
+    color: #fff;
 }
 
 .sobre .txt-sobre h2{
@@ -279,7 +279,7 @@ form input, form textarea {
 }
 
 form input::placeholder{
-    color: black;
+    color: #fff;
 
 }
 
@@ -328,11 +328,5 @@ footer .line-footer p i{
 }
 
 footer .line-footer p a{
-    color: black;
+    color: #fff;
 }
-
-
-
-
-
-
