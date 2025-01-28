@@ -4,6 +4,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
+
 }
 body{
     background-color: black;
@@ -22,13 +24,14 @@ body{
 .btn-contato button{
     padding: 10px 40px;
     font-size: 18px;
-    font-weight: 600;
+    font-weight: 500;
     background-color: purple;
     border: 0;
     border-radius: 30px;
     cursor: pointer;
     transition: .2s;
     color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h2.titulo{
@@ -62,6 +65,8 @@ header a{
     text-decoration: none;
     display: inline-block;
     transition: .2s;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header a:hover{
@@ -95,7 +100,7 @@ header nav ul li{
  }
 
  .topo-do-site h1{
-    font-size: 40px;
+    font-size: 50px;
     color: #fff;
     font-weight: 600;
     line-height: 40px;
